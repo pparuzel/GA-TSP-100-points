@@ -18,3 +18,5 @@ Visit each point only **once** while traversing the **shortest path** possible
 **Mutation:** Three types of mutations at once of equal chances (~33%)
 
 **Number of (brute-force) permutations:** 100! < 9332621544 * 10^148 which is basically 9332621544 and 148 zeros of possible routes. This definitely displays the power of heuristic algorithms
+
+**Final best distance:** 94.51244551248153 (as in the solution above)

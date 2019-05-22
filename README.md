@@ -1,4 +1,4 @@
-# GA-TSP-100-points
+# Genetic Algorithm TSP on 100 Points
 A simple example of a fast solution to a hard Travelling Salesman Problem for 100 points!
 
 ### Problem

@@ -2,6 +2,6 @@
 A simple example of a solution to a hard Travelling Salesman Problem for 100 points!
 
 ### Problem
-![image_here](missing link)
+![problem-img](images/problem.png)
 ### Solution
-![image_here](missing link)
+![solution-img](images/solution.png)
